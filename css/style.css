@@ -1,3 +1,10 @@
+body{
+	background:#EEEEEE;
+}
+.content{
+	width:200px;
+	margin:auto;
+}
 .content input{
 	padding:5px 10px;
 	width:200px;
